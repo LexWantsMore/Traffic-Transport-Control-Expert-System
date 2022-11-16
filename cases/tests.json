@@ -9,65 +9,65 @@
     {
         "Facts": ["Freeway", "Two lanes", "Right lane"],
         "Conclusion": {
-            "Max": 120,
-            "Min": 60
+            "Max Speed": 120,
+            "Min Speed": 60
         }
     },
     {
         "Facts": ["Freeway", "Two lanes", "Left lane"],
         "Conclusion": {
-            "Max": 120,
-            "Min": 100
+            "Max Speed": 120,
+            "Min Speed": 100
         }
     },
     {
         "Facts": ["Freeway", "Three lanes", "Middle lane", "Safety distance 100 meters"],
         "Conclusion": {
-            "Max": 100,
-            "Min": 90
+            "Max Speed": 100,
+            "Min Speed": 90
         }
     },
     {
         "Facts": ["Freeway", "Two lanes"],
         "Conclusion": {
-            "Max": 120,
-            "Min": 60
+            "Max Speed": 120,
+            "Min Speed": 60
         }
     },
     {
         "Facts": ["Freeway", "Visibility 100 meters"],
         "Conclusion":{
-            "Max": 40
+            "Max Speed": 40
         }
     },
     {
         "Facts": ["Freeway", "Visibility 100 meters", "Three lanes", "Right lane"],
         "Conclusion": {
-            "Max": 40
+            "Max Speed": 40
         }
     },
     {
         "Facts": ["Freeway", "Visibility 200 meters", "Two lanes", "Left lane"],
         "Conclusion": {
-            "Max": 60
+            "Max Speed": 60
         }
     },
     {
         "Facts": ["Freeway", "Visibility 50 meters", "Three lanes", "Middle lane", "Safety distance 100 meters"],
         "Conclusion": {
-            "Max": 20
+            "Max Speed": 20
         }
     },
     {
         "Facts": ["Freeway", "Visibility 100 meters", "Two lanes", "Right lane", "Safety distance 100 meters"],
         "Conclusion": {
-            "Max": 40
+            "Max Speed": 40
         }
     },
     {
         "Facts": ["Freeway", "Three lanes", "Right lane", "Visibility 200 meters"],
         "Conclusion": {
-            "Max": 60
+            "Max Speed": 60
         }
     }
 ]
